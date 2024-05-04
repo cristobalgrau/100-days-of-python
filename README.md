@@ -1,2 +1,3 @@
-# 100-days-of-python
-100 Days of Code - Journey through The Complete Python Pro Bootcamp from Dr Angela Yu
+# 100 Days of Code: The Complete Python Pro Bootcamp
+
+This is my journey through the Dr. Angela Yu's Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp 
