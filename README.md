@@ -47,5 +47,6 @@ This is my journey through Dr. Angela Yu's Udemy course: 100 Days of Code: The C
 - [Day 36](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-36) - **Project**: Stock Trading News Alert
 - [Day 37](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-37) - **Project**: Habit Tracker
 - [Day 38](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-38) - **Project**: Workout Tracking
-- [Day 39](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-39) - **Project**: Flight Deal Finder - Part 1
+- [Day 39](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-39) - **Project**: Flight Deal Finder
+- [Day 40](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-40) - **Project**: The Flight Club
 
