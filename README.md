@@ -49,4 +49,10 @@ This is my journey through Dr. Angela Yu's Udemy course: 100 Days of Code: The C
 - [Day 38](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-38) - **Project**: Workout Tracking
 - [Day 39](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-39) - **Project**: Flight Deal Finder
 - [Day 40](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-40) - **Project**: The Flight Club
+- [Day 41](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-41) - **Project**: Movie Ranking
+- [Day 42](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-42) - **Project**: House of the Dragon Basic HTML web page
+- [Day 43](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-43) - **Project**: Colour Vocabulary Website
+- [Day 44](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-44) - **Project**: Motivational Meme Poster Website
+- [Day 45](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-45) - **Project**: 100 movies that you must watch
+- [Day 46](https://github.com/cristobalgrau/100-days-of-python/tree/main/Intermediate%2B/day-46) - **Project**: Creating a Spotify Playlist by Scraping Historical Billboard Top 100
 
